@@ -1,1 +1,0 @@
-![Screenshot of palm tree](/Lab-0/photo.png)

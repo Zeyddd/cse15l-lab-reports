@@ -1,0 +1,1 @@
+![Screenshot of palm tree](/photo.png)
