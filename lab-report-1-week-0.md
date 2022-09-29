@@ -1,1 +1,1 @@
-![](photo.png)
+![Screenshot of palm tree](/photo.png)
