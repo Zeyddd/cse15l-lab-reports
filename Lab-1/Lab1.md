@@ -13,7 +13,8 @@
 
 Visit [VSCode_Install](https://code.visualstudio.com/) and download VSCode by following the instructions on the official webpage. You should be greeted with this after a successful download:
 
-![VSCode_ss](/vscode.png)
+![vscode](https://user-images.githubusercontent.com/53220531/193212213-85114364-fada-4baa-9fb6-4d5e3d82db69.png)
+
 
 ## 2. Remotely Connecting
 
@@ -43,7 +44,8 @@ Simply type in `yes` then press enter. You'll be prompted with your password, so
 
 __Below is an example screenshot__
 
-![](/ssh.png)
+![ssh](https://user-images.githubusercontent.com/53220531/193212315-1935fedf-9cd0-4da7-9670-0af1c82a3f4d.png)
+
 
 Congratulations! You've successfully connected to the remote servers!
 
@@ -61,7 +63,8 @@ Below is a list of useful commands which I would recommend trying:
 
 __Below is an example screenshot__
 
-![](/eg1.png)
+![eg1](https://user-images.githubusercontent.com/53220531/193212347-3b953382-5839-476f-97c4-ab403eadee53.png)
+
 
 ## 4. Moving files from local to remote
 
@@ -83,7 +86,7 @@ Try using `cat test.txt`. What do you notice?
 
 __Below is an example screenshot__
 
-![](/scp.png)
+![scp](https://user-images.githubusercontent.com/53220531/193212367-1c4d0342-59f1-461e-8350-6489801843ee.png)
 
 ## 5. Setting an SSH key
 
@@ -126,6 +129,6 @@ Although we have set up an easier method to enter our password, typing out `ssh 
 
 __Below are some example screenshots__
 
-![](/user.png)
+![copy](https://user-images.githubusercontent.com/53220531/193212429-d132e359-fffb-43fa-ae6e-c2c9a0286c32.png)
 
-![](/copy.png)
+![user](https://user-images.githubusercontent.com/53220531/193212435-7e9c8bbd-fb59-425b-94b0-69158534cf2e.png)
