@@ -13,7 +13,7 @@
 
 Visit [VSCode_Install](https://code.visualstudio.com/) and download VSCode by following the instructions on the official webpage. You should be greeted with this after a successful download:
 
-![VSCode_ss](/Lab-1/vscode.png)
+![VSCode_ss](/vscode.png)
 
 ## 2. Remotely Connecting
 
