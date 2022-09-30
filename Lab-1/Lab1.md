@@ -41,6 +41,10 @@ Simply type in `yes` then press enter. You'll be prompted with your password, so
 
 *Note: While entering your password, nothing will show up on the terminal, however, your keystrokes are still being read.*
 
+__Below is an example screenshot__
+
+![](/ssh.png)
+
 Congratulations! You've successfully connected to the remote servers!
 
 ## 3. Trying some commands
@@ -55,6 +59,10 @@ Below is a list of useful commands which I would recommend trying:
 * `cat <file>/<directory>`
 * `logout`
 
+__Below is an example screenshot__
+
+![](/eg1.png)
+
 ## 4. Moving files from local to remote
 
 We'll be using a command called `scp`, which we run when copying files from the client (local) machine to the remote one.
@@ -63,7 +71,7 @@ Create a file called *test.txt*, and fill it with the following:
 
 `Hello world! I've remote copied this!`
 
-Next, in the terminal, run the following command:
+Next, in the terminal, run the following command locally:
 
 `scp text.txt cs15lfa22kw@ieng6.ucsd.edu:~/`
 
@@ -72,6 +80,10 @@ You'll be prompted for your password, enter it.
 Next, log into your remote account using `ssh`, and use `ls`. You'll notice the file test.txt will be there.
 
 Try using `cat test.txt`. What do you notice?
+
+__Below is an example screenshot__
+
+![](/scp.png)
 
 ## 5. Setting an SSH key
 
@@ -101,6 +113,7 @@ scp /Users/Zeyad/.ssh/id_rsa.pub cs15lfa22kw@ieng6.ucsd.edu:~/.ssh/authorized_ke
 
 Congratulations, you've set up a custom, short passcode for ease of access!
 
+
 ## 6. Optimizing Remote Running
 
 Although we have set up an easier method to enter our password, typing out `ssh cs15lfa22kw@ieng6.ucsd.edu` is still quite time consuming. Therefore, in order to save even more time, here are a few ways of saving some time:
@@ -110,3 +123,9 @@ Although we have set up an easier method to enter our password, typing out `ssh 
 * If it isn't your first time logging in, notice the number when running codes in your terminal: `[cs15lfa22kw@ieng6-203]:~:21$`, the 21 in this case tells us that this will be the twenty first instruction we tell the computer. If you find this number when you first logged in, and then type `! (number)`, it'll run the code you entered for that line, in this case being your login, and save you loads of time!
 
 * When copying files from local to remote, we can once again have our usernamee saved in a document where we can simply paste it instead of fully typing out the entire section
+
+__Below are some example screenshots__
+
+![](/user.png)
+
+![](/copy.png)
