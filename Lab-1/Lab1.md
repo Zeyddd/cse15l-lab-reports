@@ -132,3 +132,5 @@ __Below are some example screenshots__
 ![copy](https://user-images.githubusercontent.com/53220531/193212429-d132e359-fffb-43fa-ae6e-c2c9a0286c32.png)
 
 ![user](https://user-images.githubusercontent.com/53220531/193212435-7e9c8bbd-fb59-425b-94b0-69158534cf2e.png)
+
+![one-line](C:\Users\Zeyad\Documents\CSE15L\cse15l-lab-reports\Lab-1\ss7.png)
