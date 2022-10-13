@@ -58,11 +58,11 @@ In this image, we are adding _apple_ to the array. First, the code checks the pa
 
 ![ss2](https://user-images.githubusercontent.com/53220531/195718793-97cff673-68e0-418e-a0fe-2c5498e63347.png)
 
-In this image, instead of _apple_, I'm adding _pineapple_. The code goes through the exact same process as the above.
+In this image, instead of _apple_, I'm adding _pineapple_. The code goes through the exact same process as apple.
 
 ![ss4](https://user-images.githubusercontent.com/53220531/195718865-a94994e8-0284-4b2a-9276-83319d2c2ac3.png)
 
-In this image, instead of _pineapple_, I'm adding _banana_. The code goes through the exact same process as the above.
+In this image, instead of _pineapple_, I'm adding _banana_. The code goes through the exact same process as apple.
 
 ## Searching the array
 
