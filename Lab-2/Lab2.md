@@ -60,13 +60,13 @@ In this image, we are adding _apple_ to the array. First, the code checks the pa
 
 In this image, instead of _apple_, I'm adding _pineapple_. The code goes through the exact same process as the above.
 
-In this image, instead of _pineapple_, I'm adding _banana_. The code goes through the exact same process as the above.
+![ss4](https://user-images.githubusercontent.com/53220531/195718865-a94994e8-0284-4b2a-9276-83319d2c2ac3.png)
 
-![ss3](https://user-images.githubusercontent.com/53220531/195718832-4015913a-49c9-4906-9664-782282d7b732.png)
+In this image, instead of _pineapple_, I'm adding _banana_. The code goes through the exact same process as the above.
 
 ## Searching the array
 
-[ss4](https://user-images.githubusercontent.com/53220531/195718865-a94994e8-0284-4b2a-9276-83319d2c2ac3.png)
+![ss3](https://user-images.githubusercontent.com/53220531/195718832-4015913a-49c9-4906-9664-782282d7b732.png)
 
 Here, we see that instead of adding something, I'm searching for a string. Just like Chrome, where you can use `CTRL + F` and search for things, either in its full name or part of it, my search method does the same thing. The code checks if the path is `/search`, and then splits the query into an array, just like the with `/add`. After that, it grabs the second index of the array, which is our search string, and compares it to every value in the original array, where we stored our added values, and checks to see if every index of that array contains our search. If it does, we add that value to a new array, and once we have gone through the entirety of the original array, we output the new array.
 
