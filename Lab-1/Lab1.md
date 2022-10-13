@@ -127,10 +127,14 @@ Although we have set up an easier method to enter our password, typing out `ssh 
 
 * When copying files from local to remote, we can once again have our usernamee saved in a document where we can simply paste it instead of fully typing out the entire section
 
+* You can do `ssh cs15lfa22kw@ieng6.ucsd.edu "ls"` for example to run a command on the remote server, without actually connecting to it.
+
+* By combining all of these together, you should be able to run the compule and run WhereAmI.java on your local computer, copy it over to the remote one, compile and run it again all in one line.
+
 __Below are some example screenshots__
 
 ![copy](https://user-images.githubusercontent.com/53220531/193212429-d132e359-fffb-43fa-ae6e-c2c9a0286c32.png)
 
 ![user](https://user-images.githubusercontent.com/53220531/193212435-7e9c8bbd-fb59-425b-94b0-69158534cf2e.png)
 
-![one-line](https://github.com/Zeyddd/cse15l-lab-reports/blob/main/Lab-1/ss7.png)
+![one-line](https://github.com/Zeyddd/cse15l-lab-reports/blob/ceb3e7433171e25c555f2ca23b6275c67f305b7e/Lab-1/ss7.png)
