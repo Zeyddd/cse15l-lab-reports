@@ -12,10 +12,12 @@ Without doing so, I could not find a way to do this below 30 key strokes.
 **Commands used without paste**
 `15gg, <SHIFT> 4, a, <ENTER>, S, y, s, t, e, m, ., o, u, t, ., p, r, i, n, t, (, f, ., t, o, S, t, r, i, n, g, (, ), ), <ESC>, :wq`
 
-[1]
-[2]
-[4]
-[3]
+![1](https://user-images.githubusercontent.com/53220531/201223306-ccdb071b-046d-4c5b-8067-8585e15133bc.png)
+![2](https://user-images.githubusercontent.com/53220531/201223353-9b5ca586-f3d1-42a1-9fc1-668856cda1ba.png)
+![4](https://user-images.githubusercontent.com/53220531/201223362-7df4eac6-0895-42de-811f-84b4905ea34c.png)
+![3](https://user-images.githubusercontent.com/53220531/201223372-d8e852b5-32bd-4337-b822-9db43512bb72.png)
+
+
 
 # Part 2
 
