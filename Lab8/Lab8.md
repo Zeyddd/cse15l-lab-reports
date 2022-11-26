@@ -51,16 +51,15 @@ echo $SCORE
 
 **First student submission**
 
-[Image1]
+![1](https://user-images.githubusercontent.com/53220531/204067017-40938952-70d4-446c-a5cb-6b6ef5795d10.png)
 
 **Second student submission**
 
-[Image2]
+![2](https://user-images.githubusercontent.com/53220531/204067019-b246eeab-0c3c-4c11-a12e-798ccdf8889b.png)
 
 **Third student submission**
 
-[Image3]
-
+![3](https://user-images.githubusercontent.com/53220531/204067024-c0437f4f-d727-4c6a-9efe-926d608e417c.png)
 
 ## Code trace
 
