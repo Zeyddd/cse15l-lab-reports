@@ -12,6 +12,11 @@ Without doing so, I could not find a way to do this below 30 key strokes.
 **Commands used without paste**
 `15gg, <SHIFT> 4, a, <ENTER>, S, y, s, t, e, m, ., o, u, t, ., p, r, i, n, t, (, f, ., t, o, S, t, r, i, n, g, (, ), ), <ESC>, :wq`
 
+**What the commands do**
+- `15gg` Moves the the 15th line, 15 being the line number, gg stating that we want to move to the next line
+- `a` Appends/Inserts at the character next to the cursor
+- `wq` Saves and exits vim mode
+
 ![1](https://user-images.githubusercontent.com/53220531/201223306-ccdb071b-046d-4c5b-8067-8585e15133bc.png)
 ![2](https://user-images.githubusercontent.com/53220531/201223353-9b5ca586-f3d1-42a1-9fc1-668856cda1ba.png)
 ![4](https://user-images.githubusercontent.com/53220531/201223362-7df4eac6-0895-42de-811f-84b4905ea34c.png)
